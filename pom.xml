@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>9292eec9-4267-42e5-ae54-173a27a85f53</groupId>
+	<groupId>d4949176-09b4-4b2f-b034-2fa3f003876f</groupId>
 	<artifactId>git-action</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
