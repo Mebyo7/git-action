@@ -4,9 +4,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>d4949176-09b4-4b2f-b034-2fa3f003876f</groupId>
+	<groupId>9292eec9-4267-42e5-ae54-173a27a85f53</groupId>
 	<artifactId>git-action</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>git-action</name>
@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.8.0</app.runtime>
+		<app.runtime>4.8.1</app.runtime>
 		<mule.maven.plugin.version>4.3.0</mule.maven.plugin.version>
 	</properties>
 
@@ -41,7 +41,7 @@
 						<server>Repository</server>
 						<applicationName>${project.artifactId}</applicationName>
 						<releaseChannel>Edge</releaseChannel>
-						<muleVersion>4.8.0</muleVersion>
+						<muleVersion>4.8.1</muleVersion>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<deploymentSettings>
