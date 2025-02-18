@@ -6,7 +6,7 @@
 
 	<groupId>d4949176-09b4-4b2f-b034-2fa3f003876f</groupId>
 	<artifactId>git-action</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<packaging>mule-application</packaging>
 
 	<name>git-action</name>
@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.8.1</app.runtime>
+		<app.runtime>4.9.1</app.runtime>
 		<mule.maven.plugin.version>4.3.0</mule.maven.plugin.version>
 	</properties>
 
@@ -41,7 +41,7 @@
 						<server>Repository</server>
 						<applicationName>${project.artifactId}</applicationName>
 						<releaseChannel>Edge</releaseChannel>
-						<muleVersion>4.8.1</muleVersion>
+						<muleVersion>4.9.1</muleVersion>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<deploymentSettings>
